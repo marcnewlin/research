@@ -6,8 +6,8 @@
 
 I was the lead researcher on the [CableTap](https://github.com/BastilleResearch/CableTap) project, which yielded 26 CVEs in ISP-provided consumer equipment. The majority of the CVEs (25/26) impacted Comcast-branded equipment and services, affecting hardware from Cisco, Motorola, Arris, Technicolor, and Xfinity.
 
-- [DEF CON 25 whitepaper] https://github.com/BastilleResearch/CableTap/blob/master/doc/pdf/DEFCON-25-Marc-Newlin-CableTap-White-Paper.pdf
-- [DEF CON 25 slide deck] https://github.com/BastilleResearch/CableTap/blob/master/doc/pdf/DEFCON-25-Marc-Newlin-CableTap-Slides.pdf
+- [DEF CON 25 whitepaper](https://github.com/BastilleResearch/CableTap/blob/master/doc/pdf/DEFCON-25-Marc-Newlin-CableTap-White-Paper.pdf)
+- [DEF CON 25 slide deck](https://github.com/BastilleResearch/CableTap/blob/master/doc/pdf/DEFCON-25-Marc-Newlin-CableTap-Slides.pdf)
 - *DEF CON 25 video is pending release*
 
 ## MouseJack / KeySniffer
